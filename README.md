@@ -73,11 +73,12 @@ Features:
 
 ### 4. Top Module
 The top module connects all UART components.
-Baud Rate Generator
-│
-├── tx_enable → Transmitter
-└── rx_enable → Receiver
-
+```text
+Baud Rate Generator <br>
+│ <br>
+├── tx_enable → Transmitter <br>
+└── rx_enable → Receiver <br>
+```
 ---
 
 ### 5. Testbench
