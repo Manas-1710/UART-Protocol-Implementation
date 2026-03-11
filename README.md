@@ -18,15 +18,14 @@ Idle → Start → D0 → D1 → D2 → D3 → D4 → D5 → D6 → D7 → Stop 
 
 ## Project Structure
 
----
-
-UART/ <br>
-│ <br>
-├── baud_rate_generator.v <br>
-├── transmitter.v <br>
-├── receiver.v <br>
-├── top.v <br>
-├── uart_top_tb.v
+```text
+UART/
+│
+├── baud_rate_generator.v
+├── transmitter.v
+├── receiver.v
+├── top.v
+└── uart_top_tb.v
 
 
 ---
